@@ -1,6 +1,10 @@
 {
 	"name": "react_sanity_socialmedia",
 	"version": "0.1.0",
+<<<<<<< HEAD
+=======
+	"homepage": "https://thisletterk.github.io/lagos-connect",
+>>>>>>> d2c6b35c516342c1309e0c1279e210c06e6f8bc1
 	"private": true,
 	"dependencies": {
 		"@craco/craco": "^6.4.0",
@@ -9,6 +13,10 @@
 		"@testing-library/jest-dom": "^5.15.0",
 		"@testing-library/react": "^11.2.7",
 		"@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
+=======
+		"caniuse-lite": "^1.0.30001409",
+>>>>>>> d2c6b35c516342c1309e0c1279e210c06e6f8bc1
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-facebook-login": "^4.1.1",
@@ -22,6 +30,11 @@
 		"web-vitals": "^1.1.2"
 	},
 	"scripts": {
+<<<<<<< HEAD
+=======
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
+>>>>>>> d2c6b35c516342c1309e0c1279e210c06e6f8bc1
 		"start": "craco start",
 		"build": "craco build",
 		"test": "craco test",
@@ -49,11 +62,18 @@
 		"autoprefixer": "^9.8.8",
 		"eslint": "^7.11.0",
 		"eslint-config-airbnb": "^19.0.1",
+<<<<<<< HEAD
 		"eslint-plugin-disable": "^2.0.3",
+=======
+>>>>>>> d2c6b35c516342c1309e0c1279e210c06e6f8bc1
 		"eslint-plugin-import": "^2.25.3",
 		"eslint-plugin-jsx-a11y": "^6.5.1",
 		"eslint-plugin-react": "^7.27.1",
 		"eslint-plugin-react-hooks": "^4.3.0",
+<<<<<<< HEAD
+=======
+		"gh-pages": "^4.0.0",
+>>>>>>> d2c6b35c516342c1309e0c1279e210c06e6f8bc1
 		"postcss": "^7.0.39",
 		"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
 	}
